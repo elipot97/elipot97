@@ -1,16 +1,14 @@
-## Hi there 👋
+# Welcome to the Webpage, Joahnna Gen Daria! 
 
-<!--
-**elipot97/elipot97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hope you doin okay!
 
-Here are some ideas to get you started:
+<img src="https://th.bing.com/th/id/R.0db03bfec8156217e0a9422b628a715f?rik=YI8oNmSTKjfsxA&riu=http%3a%2f%2fkittybucholtz.com%2fwp-content%2fuploads%2f2016%2f02%2fSmile-thumbs-up.jpg&ehk=Ssgojxlf97%2fAswaD046MlwC348FZSlOtkEy6mDg%2beTc%3d&risl=1&pid=ImgRaw&r=0" alt="Alt text" width="500" height="400">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## Containerized Python API
+This is a containerized application that exposes a JSON API using FASTAPI with Azure!
+
+Use the buttons below to make use of interactive (OpenAPI) documentation for trying out the API dynamically, or browse the project source.
+
